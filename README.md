@@ -1,6 +1,6 @@
 # gitbasics
 
-Install Git  https://git-scm.com/downloads_
+_Install Git  https://git-scm.com/downloads_
 _Signup Github https://github.com_
   
 
