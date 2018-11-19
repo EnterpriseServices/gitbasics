@@ -1,8 +1,9 @@
 # gitbasics
 
 _Install Git  https://git-scm.com/downloads_
+--
 _Signup Github https://github.com_
-  
+--  
 
 Git Commands
 ============
