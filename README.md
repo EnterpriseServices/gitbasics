@@ -6,7 +6,6 @@ _Signup Github https://github.com_
 --  
 Git Proxy on Intranet
 --
---
 git config --global http.proxy http://proxyuser:proxypwd@proxy.server.com:8080
 --
 change proxyuser to your proxy user
