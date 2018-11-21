@@ -21,7 +21,8 @@ If you decide at any time to reset this proxy and work without proxy:
 --
 git config --global --unset http.proxy
 --
-
+To Check current proxy settings
+--
 git config --global --get http.proxy
 --
 Git Commands
